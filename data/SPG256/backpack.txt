@@ -1,0 +1,5 @@
+strap
+handle
+body
+zipper,ornament
+pocket

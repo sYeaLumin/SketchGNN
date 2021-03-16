@@ -1,0 +1,5 @@
+tentacle
+body,head
+wings
+decoration on wings
+

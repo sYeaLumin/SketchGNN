@@ -1,0 +1,5 @@
+tentacle
+eye,mouth
+head
+body
+legs

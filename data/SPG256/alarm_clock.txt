@@ -1,0 +1,5 @@
+bell
+clock face
+scale,number
+piont
+clock leg,base

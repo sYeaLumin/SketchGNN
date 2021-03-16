@@ -1,0 +1,511 @@
+================ Training (Tue Mar 16 16:42:59 2021) ================
+(time: 16:43:02 03/16/21, epoch: 0, iters: 0) loss: 1.691 
+(time: 16:43:02 03/16/21, epoch: 0, iters: 10) loss: 0.626 
+(time: 16:43:03 03/16/21, epoch: 0, iters: 20) loss: 0.761 
+(time: 16:43:03 03/16/21, epoch: 0, iters: 30) loss: 0.557 
+(time: 16:43:04 03/16/21, epoch: 0, iters: 40) loss: 0.463 
+test (time: 16:43:04 03/16/21, epoch: 0, iters: 0) loss: 1.504 
+(time: 16:43:04 03/16/21, epoch: 1, iters: 9) loss: 0.459 
+(time: 16:43:05 03/16/21, epoch: 1, iters: 19) loss: 0.551 
+(time: 16:43:05 03/16/21, epoch: 1, iters: 29) loss: 0.520 
+(time: 16:43:06 03/16/21, epoch: 1, iters: 39) loss: 0.423 
+test (time: 16:43:06 03/16/21, epoch: 1, iters: 0) loss: 0.576 
+(time: 16:43:06 03/16/21, epoch: 2, iters: 8) loss: 0.480 
+(time: 16:43:07 03/16/21, epoch: 2, iters: 18) loss: 0.458 
+(time: 16:43:07 03/16/21, epoch: 2, iters: 28) loss: 0.428 
+(time: 16:43:08 03/16/21, epoch: 2, iters: 38) loss: 0.436 
+test (time: 16:43:08 03/16/21, epoch: 2, iters: 0) loss: 0.520 
+(time: 16:43:08 03/16/21, epoch: 3, iters: 7) loss: 0.348 
+(time: 16:43:09 03/16/21, epoch: 3, iters: 17) loss: 0.335 
+(time: 16:43:09 03/16/21, epoch: 3, iters: 27) loss: 0.336 
+(time: 16:43:10 03/16/21, epoch: 3, iters: 37) loss: 0.402 
+test (time: 16:43:10 03/16/21, epoch: 3, iters: 0) loss: 0.471 
+(time: 16:43:10 03/16/21, epoch: 4, iters: 6) loss: 0.317 
+(time: 16:43:11 03/16/21, epoch: 4, iters: 16) loss: 0.312 
+(time: 16:43:11 03/16/21, epoch: 4, iters: 26) loss: 0.299 
+(time: 16:43:12 03/16/21, epoch: 4, iters: 36) loss: 0.378 
+test (time: 16:43:12 03/16/21, epoch: 4, iters: 0) loss: 0.479 
+(time: 16:43:12 03/16/21, epoch: 5, iters: 5) loss: 0.307 
+(time: 16:43:13 03/16/21, epoch: 5, iters: 15) loss: 0.312 
+(time: 16:43:13 03/16/21, epoch: 5, iters: 25) loss: 0.401 
+(time: 16:43:14 03/16/21, epoch: 5, iters: 35) loss: 0.352 
+test (time: 16:43:14 03/16/21, epoch: 5, iters: 0) loss: 0.594 
+(time: 16:43:15 03/16/21, epoch: 6, iters: 4) loss: 0.234 
+(time: 16:43:15 03/16/21, epoch: 6, iters: 14) loss: 0.256 
+(time: 16:43:15 03/16/21, epoch: 6, iters: 24) loss: 0.337 
+(time: 16:43:16 03/16/21, epoch: 6, iters: 34) loss: 0.321 
+test (time: 16:43:16 03/16/21, epoch: 6, iters: 0) loss: 0.352 
+(time: 16:43:17 03/16/21, epoch: 7, iters: 3) loss: 0.188 
+(time: 16:43:17 03/16/21, epoch: 7, iters: 13) loss: 0.233 
+(time: 16:43:17 03/16/21, epoch: 7, iters: 23) loss: 0.258 
+(time: 16:43:18 03/16/21, epoch: 7, iters: 33) loss: 0.311 
+test (time: 16:43:18 03/16/21, epoch: 7, iters: 0) loss: 0.592 
+(time: 16:43:19 03/16/21, epoch: 8, iters: 2) loss: 0.318 
+(time: 16:43:19 03/16/21, epoch: 8, iters: 12) loss: 0.288 
+(time: 16:43:19 03/16/21, epoch: 8, iters: 22) loss: 0.197 
+(time: 16:43:20 03/16/21, epoch: 8, iters: 32) loss: 0.215 
+test (time: 16:43:20 03/16/21, epoch: 8, iters: 0) loss: 0.363 
+(time: 16:43:21 03/16/21, epoch: 9, iters: 1) loss: 0.279 
+(time: 16:43:21 03/16/21, epoch: 9, iters: 11) loss: 0.166 
+(time: 16:43:21 03/16/21, epoch: 9, iters: 21) loss: 0.191 
+(time: 16:43:22 03/16/21, epoch: 9, iters: 31) loss: 0.328 
+test (time: 16:43:23 03/16/21, epoch: 9, iters: 0) loss: 0.361 
+(time: 16:43:23 03/16/21, epoch: 10, iters: 0) loss: 0.189 
+(time: 16:43:23 03/16/21, epoch: 10, iters: 10) loss: 0.163 
+(time: 16:43:24 03/16/21, epoch: 10, iters: 20) loss: 0.141 
+(time: 16:43:24 03/16/21, epoch: 10, iters: 30) loss: 0.151 
+(time: 16:43:24 03/16/21, epoch: 10, iters: 40) loss: 0.183 
+test (time: 16:43:25 03/16/21, epoch: 10, iters: 0) loss: 0.621 
+(time: 16:43:25 03/16/21, epoch: 11, iters: 9) loss: 0.162 
+(time: 16:43:26 03/16/21, epoch: 11, iters: 19) loss: 0.140 
+(time: 16:43:26 03/16/21, epoch: 11, iters: 29) loss: 0.275 
+(time: 16:43:27 03/16/21, epoch: 11, iters: 39) loss: 0.166 
+test (time: 16:43:27 03/16/21, epoch: 11, iters: 0) loss: 0.237 
+(time: 16:43:27 03/16/21, epoch: 12, iters: 8) loss: 0.225 
+(time: 16:43:28 03/16/21, epoch: 12, iters: 18) loss: 0.165 
+(time: 16:43:28 03/16/21, epoch: 12, iters: 28) loss: 0.148 
+(time: 16:43:29 03/16/21, epoch: 12, iters: 38) loss: 0.159 
+test (time: 16:43:29 03/16/21, epoch: 12, iters: 0) loss: 0.450 
+(time: 16:43:29 03/16/21, epoch: 13, iters: 7) loss: 0.122 
+(time: 16:43:30 03/16/21, epoch: 13, iters: 17) loss: 0.110 
+(time: 16:43:30 03/16/21, epoch: 13, iters: 27) loss: 0.189 
+(time: 16:43:31 03/16/21, epoch: 13, iters: 37) loss: 0.164 
+test (time: 16:43:31 03/16/21, epoch: 13, iters: 0) loss: 0.919 
+(time: 16:43:31 03/16/21, epoch: 14, iters: 6) loss: 0.117 
+(time: 16:43:32 03/16/21, epoch: 14, iters: 16) loss: 0.146 
+(time: 16:43:32 03/16/21, epoch: 14, iters: 26) loss: 0.185 
+(time: 16:43:33 03/16/21, epoch: 14, iters: 36) loss: 0.218 
+test (time: 16:43:33 03/16/21, epoch: 14, iters: 0) loss: 0.434 
+(time: 16:43:34 03/16/21, epoch: 15, iters: 5) loss: 0.143 
+(time: 16:43:34 03/16/21, epoch: 15, iters: 15) loss: 0.130 
+(time: 16:43:34 03/16/21, epoch: 15, iters: 25) loss: 0.156 
+(time: 16:43:35 03/16/21, epoch: 15, iters: 35) loss: 0.161 
+test (time: 16:43:35 03/16/21, epoch: 15, iters: 0) loss: 1.544 
+(time: 16:43:36 03/16/21, epoch: 16, iters: 4) loss: 0.098 
+(time: 16:43:36 03/16/21, epoch: 16, iters: 14) loss: 0.115 
+(time: 16:43:37 03/16/21, epoch: 16, iters: 24) loss: 0.122 
+(time: 16:43:37 03/16/21, epoch: 16, iters: 34) loss: 0.109 
+test (time: 16:43:37 03/16/21, epoch: 16, iters: 0) loss: 0.396 
+(time: 16:43:38 03/16/21, epoch: 17, iters: 3) loss: 0.138 
+(time: 16:43:38 03/16/21, epoch: 17, iters: 13) loss: 0.099 
+(time: 16:43:39 03/16/21, epoch: 17, iters: 23) loss: 0.110 
+(time: 16:43:39 03/16/21, epoch: 17, iters: 33) loss: 0.120 
+test (time: 16:43:40 03/16/21, epoch: 17, iters: 0) loss: 0.733 
+(time: 16:43:40 03/16/21, epoch: 18, iters: 2) loss: 0.148 
+(time: 16:43:40 03/16/21, epoch: 18, iters: 12) loss: 0.112 
+(time: 16:43:41 03/16/21, epoch: 18, iters: 22) loss: 0.073 
+(time: 16:43:41 03/16/21, epoch: 18, iters: 32) loss: 0.084 
+test (time: 16:43:42 03/16/21, epoch: 18, iters: 0) loss: 2.598 
+(time: 16:43:42 03/16/21, epoch: 19, iters: 1) loss: 0.134 
+(time: 16:43:42 03/16/21, epoch: 19, iters: 11) loss: 0.105 
+(time: 16:43:43 03/16/21, epoch: 19, iters: 21) loss: 0.087 
+(time: 16:43:43 03/16/21, epoch: 19, iters: 31) loss: 0.092 
+test (time: 16:43:44 03/16/21, epoch: 19, iters: 0) loss: 1.858 
+(time: 16:43:44 03/16/21, epoch: 20, iters: 0) loss: 0.113 
+(time: 16:43:44 03/16/21, epoch: 20, iters: 10) loss: 0.080 
+(time: 16:43:45 03/16/21, epoch: 20, iters: 20) loss: 0.104 
+(time: 16:43:45 03/16/21, epoch: 20, iters: 30) loss: 0.089 
+(time: 16:43:46 03/16/21, epoch: 20, iters: 40) loss: 0.200 
+test (time: 16:43:46 03/16/21, epoch: 20, iters: 0) loss: 0.388 
+(time: 16:43:46 03/16/21, epoch: 21, iters: 9) loss: 0.072 
+(time: 16:43:47 03/16/21, epoch: 21, iters: 19) loss: 0.081 
+(time: 16:43:47 03/16/21, epoch: 21, iters: 29) loss: 0.093 
+(time: 16:43:48 03/16/21, epoch: 21, iters: 39) loss: 0.085 
+test (time: 16:43:48 03/16/21, epoch: 21, iters: 0) loss: 0.451 
+(time: 16:43:48 03/16/21, epoch: 22, iters: 8) loss: 0.073 
+(time: 16:43:49 03/16/21, epoch: 22, iters: 18) loss: 0.081 
+(time: 16:43:49 03/16/21, epoch: 22, iters: 28) loss: 0.148 
+(time: 16:43:50 03/16/21, epoch: 22, iters: 38) loss: 0.064 
+test (time: 16:43:50 03/16/21, epoch: 22, iters: 0) loss: 0.483 
+(time: 16:43:50 03/16/21, epoch: 23, iters: 7) loss: 0.074 
+(time: 16:43:51 03/16/21, epoch: 23, iters: 17) loss: 0.091 
+(time: 16:43:51 03/16/21, epoch: 23, iters: 27) loss: 0.134 
+(time: 16:43:52 03/16/21, epoch: 23, iters: 37) loss: 0.056 
+test (time: 16:43:52 03/16/21, epoch: 23, iters: 0) loss: 0.283 
+(time: 16:43:53 03/16/21, epoch: 24, iters: 6) loss: 0.059 
+(time: 16:43:53 03/16/21, epoch: 24, iters: 16) loss: 0.048 
+(time: 16:43:54 03/16/21, epoch: 24, iters: 26) loss: 0.061 
+(time: 16:43:54 03/16/21, epoch: 24, iters: 36) loss: 0.077 
+test (time: 16:43:55 03/16/21, epoch: 24, iters: 0) loss: 0.620 
+(time: 16:43:55 03/16/21, epoch: 25, iters: 5) loss: 0.067 
+(time: 16:43:55 03/16/21, epoch: 25, iters: 15) loss: 0.057 
+(time: 16:43:56 03/16/21, epoch: 25, iters: 25) loss: 0.067 
+(time: 16:43:56 03/16/21, epoch: 25, iters: 35) loss: 0.061 
+test (time: 16:43:57 03/16/21, epoch: 25, iters: 0) loss: 0.207 
+(time: 16:43:57 03/16/21, epoch: 26, iters: 4) loss: 0.054 
+(time: 16:43:58 03/16/21, epoch: 26, iters: 14) loss: 0.079 
+(time: 16:43:58 03/16/21, epoch: 26, iters: 24) loss: 0.058 
+(time: 16:43:58 03/16/21, epoch: 26, iters: 34) loss: 0.054 
+test (time: 16:43:59 03/16/21, epoch: 26, iters: 0) loss: 0.253 
+(time: 16:43:59 03/16/21, epoch: 27, iters: 3) loss: 0.088 
+(time: 16:44:00 03/16/21, epoch: 27, iters: 13) loss: 0.036 
+(time: 16:44:00 03/16/21, epoch: 27, iters: 23) loss: 0.040 
+(time: 16:44:00 03/16/21, epoch: 27, iters: 33) loss: 0.065 
+test (time: 16:44:01 03/16/21, epoch: 27, iters: 0) loss: 0.238 
+(time: 16:44:01 03/16/21, epoch: 28, iters: 2) loss: 0.078 
+(time: 16:44:02 03/16/21, epoch: 28, iters: 12) loss: 0.057 
+(time: 16:44:02 03/16/21, epoch: 28, iters: 22) loss: 0.058 
+(time: 16:44:03 03/16/21, epoch: 28, iters: 32) loss: 0.045 
+test (time: 16:44:03 03/16/21, epoch: 28, iters: 0) loss: 0.374 
+(time: 16:44:03 03/16/21, epoch: 29, iters: 1) loss: 0.038 
+(time: 16:44:04 03/16/21, epoch: 29, iters: 11) loss: 0.055 
+(time: 16:44:04 03/16/21, epoch: 29, iters: 21) loss: 0.057 
+(time: 16:44:05 03/16/21, epoch: 29, iters: 31) loss: 0.073 
+test (time: 16:44:05 03/16/21, epoch: 29, iters: 0) loss: 0.221 
+(time: 16:44:05 03/16/21, epoch: 30, iters: 0) loss: 0.047 
+(time: 16:44:06 03/16/21, epoch: 30, iters: 10) loss: 0.039 
+(time: 16:44:06 03/16/21, epoch: 30, iters: 20) loss: 0.039 
+(time: 16:44:07 03/16/21, epoch: 30, iters: 30) loss: 0.044 
+(time: 16:44:07 03/16/21, epoch: 30, iters: 40) loss: 0.050 
+test (time: 16:44:07 03/16/21, epoch: 30, iters: 0) loss: 0.305 
+(time: 16:44:08 03/16/21, epoch: 31, iters: 9) loss: 0.078 
+(time: 16:44:08 03/16/21, epoch: 31, iters: 19) loss: 0.044 
+(time: 16:44:09 03/16/21, epoch: 31, iters: 29) loss: 0.043 
+(time: 16:44:09 03/16/21, epoch: 31, iters: 39) loss: 0.031 
+test (time: 16:44:09 03/16/21, epoch: 31, iters: 0) loss: 0.289 
+(time: 16:44:10 03/16/21, epoch: 32, iters: 8) loss: 0.035 
+(time: 16:44:10 03/16/21, epoch: 32, iters: 18) loss: 0.072 
+(time: 16:44:11 03/16/21, epoch: 32, iters: 28) loss: 0.048 
+(time: 16:44:11 03/16/21, epoch: 32, iters: 38) loss: 0.039 
+test (time: 16:44:11 03/16/21, epoch: 32, iters: 0) loss: 0.324 
+(time: 16:44:12 03/16/21, epoch: 33, iters: 7) loss: 0.030 
+(time: 16:44:12 03/16/21, epoch: 33, iters: 17) loss: 0.036 
+(time: 16:44:13 03/16/21, epoch: 33, iters: 27) loss: 0.037 
+(time: 16:44:13 03/16/21, epoch: 33, iters: 37) loss: 0.037 
+test (time: 16:44:14 03/16/21, epoch: 33, iters: 0) loss: 0.795 
+(time: 16:44:14 03/16/21, epoch: 34, iters: 6) loss: 0.032 
+(time: 16:44:14 03/16/21, epoch: 34, iters: 16) loss: 0.036 
+(time: 16:44:15 03/16/21, epoch: 34, iters: 26) loss: 0.034 
+(time: 16:44:15 03/16/21, epoch: 34, iters: 36) loss: 0.038 
+test (time: 16:44:16 03/16/21, epoch: 34, iters: 0) loss: 0.475 
+(time: 16:44:16 03/16/21, epoch: 35, iters: 5) loss: 0.055 
+(time: 16:44:16 03/16/21, epoch: 35, iters: 15) loss: 0.086 
+(time: 16:44:17 03/16/21, epoch: 35, iters: 25) loss: 0.059 
+(time: 16:44:17 03/16/21, epoch: 35, iters: 35) loss: 0.062 
+test (time: 16:44:18 03/16/21, epoch: 35, iters: 0) loss: 0.519 
+(time: 16:44:18 03/16/21, epoch: 36, iters: 4) loss: 0.073 
+(time: 16:44:18 03/16/21, epoch: 36, iters: 14) loss: 0.067 
+(time: 16:44:19 03/16/21, epoch: 36, iters: 24) loss: 0.086 
+(time: 16:44:19 03/16/21, epoch: 36, iters: 34) loss: 0.068 
+test (time: 16:44:20 03/16/21, epoch: 36, iters: 0) loss: 0.340 
+(time: 16:44:20 03/16/21, epoch: 37, iters: 3) loss: 0.040 
+(time: 16:44:21 03/16/21, epoch: 37, iters: 13) loss: 0.047 
+(time: 16:44:21 03/16/21, epoch: 37, iters: 23) loss: 0.056 
+(time: 16:44:21 03/16/21, epoch: 37, iters: 33) loss: 0.036 
+test (time: 16:44:22 03/16/21, epoch: 37, iters: 0) loss: 0.294 
+(time: 16:44:22 03/16/21, epoch: 38, iters: 2) loss: 0.093 
+(time: 16:44:23 03/16/21, epoch: 38, iters: 12) loss: 0.037 
+(time: 16:44:23 03/16/21, epoch: 38, iters: 22) loss: 0.079 
+(time: 16:44:23 03/16/21, epoch: 38, iters: 32) loss: 0.023 
+test (time: 16:44:24 03/16/21, epoch: 38, iters: 0) loss: 0.359 
+(time: 16:44:24 03/16/21, epoch: 39, iters: 1) loss: 0.035 
+(time: 16:44:25 03/16/21, epoch: 39, iters: 11) loss: 0.043 
+(time: 16:44:25 03/16/21, epoch: 39, iters: 21) loss: 0.067 
+(time: 16:44:26 03/16/21, epoch: 39, iters: 31) loss: 0.067 
+test (time: 16:44:27 03/16/21, epoch: 39, iters: 0) loss: 1.134 
+(time: 16:44:27 03/16/21, epoch: 40, iters: 0) loss: 0.050 
+(time: 16:44:27 03/16/21, epoch: 40, iters: 10) loss: 0.034 
+(time: 16:44:28 03/16/21, epoch: 40, iters: 20) loss: 0.050 
+(time: 16:44:28 03/16/21, epoch: 40, iters: 30) loss: 0.018 
+(time: 16:44:29 03/16/21, epoch: 40, iters: 40) loss: 0.037 
+test (time: 16:44:29 03/16/21, epoch: 40, iters: 0) loss: 0.481 
+(time: 16:44:29 03/16/21, epoch: 41, iters: 9) loss: 0.026 
+(time: 16:44:30 03/16/21, epoch: 41, iters: 19) loss: 0.050 
+(time: 16:44:30 03/16/21, epoch: 41, iters: 29) loss: 0.035 
+(time: 16:44:31 03/16/21, epoch: 41, iters: 39) loss: 0.038 
+test (time: 16:44:31 03/16/21, epoch: 41, iters: 0) loss: 0.415 
+(time: 16:44:31 03/16/21, epoch: 42, iters: 8) loss: 0.071 
+(time: 16:44:32 03/16/21, epoch: 42, iters: 18) loss: 0.052 
+(time: 16:44:32 03/16/21, epoch: 42, iters: 28) loss: 0.053 
+(time: 16:44:33 03/16/21, epoch: 42, iters: 38) loss: 0.047 
+test (time: 16:44:33 03/16/21, epoch: 42, iters: 0) loss: 0.366 
+(time: 16:44:33 03/16/21, epoch: 43, iters: 7) loss: 0.039 
+(time: 16:44:34 03/16/21, epoch: 43, iters: 17) loss: 0.076 
+(time: 16:44:34 03/16/21, epoch: 43, iters: 27) loss: 0.134 
+(time: 16:44:35 03/16/21, epoch: 43, iters: 37) loss: 0.049 
+test (time: 16:44:35 03/16/21, epoch: 43, iters: 0) loss: 1.011 
+(time: 16:44:35 03/16/21, epoch: 44, iters: 6) loss: 0.076 
+(time: 16:44:36 03/16/21, epoch: 44, iters: 16) loss: 0.041 
+(time: 16:44:36 03/16/21, epoch: 44, iters: 26) loss: 0.039 
+(time: 16:44:37 03/16/21, epoch: 44, iters: 36) loss: 0.038 
+test (time: 16:44:37 03/16/21, epoch: 44, iters: 0) loss: 0.368 
+(time: 16:44:37 03/16/21, epoch: 45, iters: 5) loss: 0.029 
+(time: 16:44:38 03/16/21, epoch: 45, iters: 15) loss: 0.015 
+(time: 16:44:38 03/16/21, epoch: 45, iters: 25) loss: 0.036 
+(time: 16:44:39 03/16/21, epoch: 45, iters: 35) loss: 0.021 
+test (time: 16:44:39 03/16/21, epoch: 45, iters: 0) loss: 0.264 
+(time: 16:44:39 03/16/21, epoch: 46, iters: 4) loss: 0.016 
+(time: 16:44:40 03/16/21, epoch: 46, iters: 14) loss: 0.021 
+(time: 16:44:40 03/16/21, epoch: 46, iters: 24) loss: 0.016 
+(time: 16:44:41 03/16/21, epoch: 46, iters: 34) loss: 0.039 
+test (time: 16:44:41 03/16/21, epoch: 46, iters: 0) loss: 0.220 
+(time: 16:44:41 03/16/21, epoch: 47, iters: 3) loss: 0.016 
+(time: 16:44:42 03/16/21, epoch: 47, iters: 13) loss: 0.015 
+(time: 16:44:42 03/16/21, epoch: 47, iters: 23) loss: 0.015 
+(time: 16:44:43 03/16/21, epoch: 47, iters: 33) loss: 0.024 
+test (time: 16:44:43 03/16/21, epoch: 47, iters: 0) loss: 0.194 
+(time: 16:44:44 03/16/21, epoch: 48, iters: 2) loss: 0.019 
+(time: 16:44:44 03/16/21, epoch: 48, iters: 12) loss: 0.020 
+(time: 16:44:45 03/16/21, epoch: 48, iters: 22) loss: 0.029 
+(time: 16:44:45 03/16/21, epoch: 48, iters: 32) loss: 0.015 
+test (time: 16:44:46 03/16/21, epoch: 48, iters: 0) loss: 0.486 
+(time: 16:44:46 03/16/21, epoch: 49, iters: 1) loss: 0.015 
+(time: 16:44:46 03/16/21, epoch: 49, iters: 11) loss: 0.021 
+(time: 16:44:47 03/16/21, epoch: 49, iters: 21) loss: 0.015 
+(time: 16:44:47 03/16/21, epoch: 49, iters: 31) loss: 0.012 
+test (time: 16:44:48 03/16/21, epoch: 49, iters: 0) loss: 0.257 
+(time: 16:44:48 03/16/21, epoch: 50, iters: 0) loss: 0.039 
+(time: 16:44:48 03/16/21, epoch: 50, iters: 10) loss: 0.031 
+(time: 16:44:49 03/16/21, epoch: 50, iters: 20) loss: 0.028 
+(time: 16:44:49 03/16/21, epoch: 50, iters: 30) loss: 0.038 
+(time: 16:44:50 03/16/21, epoch: 50, iters: 40) loss: 0.030 
+test (time: 16:44:50 03/16/21, epoch: 50, iters: 0) loss: 0.235 
+(time: 16:44:50 03/16/21, epoch: 51, iters: 9) loss: 0.020 
+(time: 16:44:51 03/16/21, epoch: 51, iters: 19) loss: 0.019 
+(time: 16:44:51 03/16/21, epoch: 51, iters: 29) loss: 0.013 
+(time: 16:44:52 03/16/21, epoch: 51, iters: 39) loss: 0.016 
+test (time: 16:44:52 03/16/21, epoch: 51, iters: 0) loss: 0.222 
+(time: 16:44:52 03/16/21, epoch: 52, iters: 8) loss: 0.021 
+(time: 16:44:53 03/16/21, epoch: 52, iters: 18) loss: 0.012 
+(time: 16:44:53 03/16/21, epoch: 52, iters: 28) loss: 0.014 
+(time: 16:44:54 03/16/21, epoch: 52, iters: 38) loss: 0.014 
+test (time: 16:44:54 03/16/21, epoch: 52, iters: 0) loss: 0.230 
+(time: 16:44:54 03/16/21, epoch: 53, iters: 7) loss: 0.015 
+(time: 16:44:55 03/16/21, epoch: 53, iters: 17) loss: 0.014 
+(time: 16:44:55 03/16/21, epoch: 53, iters: 27) loss: 0.014 
+(time: 16:44:56 03/16/21, epoch: 53, iters: 37) loss: 0.015 
+test (time: 16:44:56 03/16/21, epoch: 53, iters: 0) loss: 0.285 
+(time: 16:44:56 03/16/21, epoch: 54, iters: 6) loss: 0.013 
+(time: 16:44:57 03/16/21, epoch: 54, iters: 16) loss: 0.011 
+(time: 16:44:57 03/16/21, epoch: 54, iters: 26) loss: 0.011 
+(time: 16:44:58 03/16/21, epoch: 54, iters: 36) loss: 0.015 
+test (time: 16:44:58 03/16/21, epoch: 54, iters: 0) loss: 0.192 
+(time: 16:44:58 03/16/21, epoch: 55, iters: 5) loss: 0.010 
+(time: 16:44:59 03/16/21, epoch: 55, iters: 15) loss: 0.010 
+(time: 16:44:59 03/16/21, epoch: 55, iters: 25) loss: 0.018 
+(time: 16:45:00 03/16/21, epoch: 55, iters: 35) loss: 0.014 
+test (time: 16:45:00 03/16/21, epoch: 55, iters: 0) loss: 0.263 
+(time: 16:45:00 03/16/21, epoch: 56, iters: 4) loss: 0.010 
+(time: 16:45:01 03/16/21, epoch: 56, iters: 14) loss: 0.020 
+(time: 16:45:01 03/16/21, epoch: 56, iters: 24) loss: 0.016 
+(time: 16:45:02 03/16/21, epoch: 56, iters: 34) loss: 0.029 
+test (time: 16:45:02 03/16/21, epoch: 56, iters: 0) loss: 0.269 
+(time: 16:45:02 03/16/21, epoch: 57, iters: 3) loss: 0.016 
+(time: 16:45:03 03/16/21, epoch: 57, iters: 13) loss: 0.030 
+(time: 16:45:03 03/16/21, epoch: 57, iters: 23) loss: 0.016 
+(time: 16:45:04 03/16/21, epoch: 57, iters: 33) loss: 0.015 
+test (time: 16:45:04 03/16/21, epoch: 57, iters: 0) loss: 0.215 
+(time: 16:45:04 03/16/21, epoch: 58, iters: 2) loss: 0.015 
+(time: 16:45:05 03/16/21, epoch: 58, iters: 12) loss: 0.018 
+(time: 16:45:05 03/16/21, epoch: 58, iters: 22) loss: 0.015 
+(time: 16:45:06 03/16/21, epoch: 58, iters: 32) loss: 0.023 
+test (time: 16:45:06 03/16/21, epoch: 58, iters: 0) loss: 0.332 
+(time: 16:45:06 03/16/21, epoch: 59, iters: 1) loss: 0.015 
+(time: 16:45:07 03/16/21, epoch: 59, iters: 11) loss: 0.018 
+(time: 16:45:07 03/16/21, epoch: 59, iters: 21) loss: 0.035 
+(time: 16:45:08 03/16/21, epoch: 59, iters: 31) loss: 0.013 
+test (time: 16:45:08 03/16/21, epoch: 59, iters: 0) loss: 0.308 
+(time: 16:45:08 03/16/21, epoch: 60, iters: 0) loss: 0.011 
+(time: 16:45:09 03/16/21, epoch: 60, iters: 10) loss: 0.015 
+(time: 16:45:09 03/16/21, epoch: 60, iters: 20) loss: 0.033 
+(time: 16:45:10 03/16/21, epoch: 60, iters: 30) loss: 0.020 
+(time: 16:45:10 03/16/21, epoch: 60, iters: 40) loss: 0.047 
+test (time: 16:45:10 03/16/21, epoch: 60, iters: 0) loss: 0.273 
+(time: 16:45:11 03/16/21, epoch: 61, iters: 9) loss: 0.018 
+(time: 16:45:11 03/16/21, epoch: 61, iters: 19) loss: 0.020 
+(time: 16:45:12 03/16/21, epoch: 61, iters: 29) loss: 0.024 
+(time: 16:45:12 03/16/21, epoch: 61, iters: 39) loss: 0.022 
+test (time: 16:45:12 03/16/21, epoch: 61, iters: 0) loss: 0.236 
+(time: 16:45:13 03/16/21, epoch: 62, iters: 8) loss: 0.012 
+(time: 16:45:13 03/16/21, epoch: 62, iters: 18) loss: 0.022 
+(time: 16:45:14 03/16/21, epoch: 62, iters: 28) loss: 0.014 
+(time: 16:45:14 03/16/21, epoch: 62, iters: 38) loss: 0.012 
+test (time: 16:45:15 03/16/21, epoch: 62, iters: 0) loss: 0.345 
+(time: 16:45:15 03/16/21, epoch: 63, iters: 7) loss: 0.025 
+(time: 16:45:15 03/16/21, epoch: 63, iters: 17) loss: 0.033 
+(time: 16:45:16 03/16/21, epoch: 63, iters: 27) loss: 0.020 
+(time: 16:45:16 03/16/21, epoch: 63, iters: 37) loss: 0.013 
+test (time: 16:45:17 03/16/21, epoch: 63, iters: 0) loss: 0.499 
+(time: 16:45:17 03/16/21, epoch: 64, iters: 6) loss: 0.010 
+(time: 16:45:17 03/16/21, epoch: 64, iters: 16) loss: 0.016 
+(time: 16:45:18 03/16/21, epoch: 64, iters: 26) loss: 0.037 
+(time: 16:45:18 03/16/21, epoch: 64, iters: 36) loss: 0.027 
+test (time: 16:45:19 03/16/21, epoch: 64, iters: 0) loss: 0.476 
+(time: 16:45:19 03/16/21, epoch: 65, iters: 5) loss: 0.029 
+(time: 16:45:19 03/16/21, epoch: 65, iters: 15) loss: 0.013 
+(time: 16:45:20 03/16/21, epoch: 65, iters: 25) loss: 0.014 
+(time: 16:45:20 03/16/21, epoch: 65, iters: 35) loss: 0.016 
+test (time: 16:45:21 03/16/21, epoch: 65, iters: 0) loss: 0.393 
+(time: 16:45:21 03/16/21, epoch: 66, iters: 4) loss: 0.009 
+(time: 16:45:21 03/16/21, epoch: 66, iters: 14) loss: 0.013 
+(time: 16:45:22 03/16/21, epoch: 66, iters: 24) loss: 0.023 
+(time: 16:45:22 03/16/21, epoch: 66, iters: 34) loss: 0.013 
+test (time: 16:45:23 03/16/21, epoch: 66, iters: 0) loss: 0.444 
+(time: 16:45:23 03/16/21, epoch: 67, iters: 3) loss: 0.041 
+(time: 16:45:23 03/16/21, epoch: 67, iters: 13) loss: 0.011 
+(time: 16:45:24 03/16/21, epoch: 67, iters: 23) loss: 0.033 
+(time: 16:45:24 03/16/21, epoch: 67, iters: 33) loss: 0.019 
+test (time: 16:45:25 03/16/21, epoch: 67, iters: 0) loss: 0.541 
+(time: 16:45:25 03/16/21, epoch: 68, iters: 2) loss: 0.053 
+(time: 16:45:25 03/16/21, epoch: 68, iters: 12) loss: 0.025 
+(time: 16:45:26 03/16/21, epoch: 68, iters: 22) loss: 0.010 
+(time: 16:45:26 03/16/21, epoch: 68, iters: 32) loss: 0.022 
+test (time: 16:45:27 03/16/21, epoch: 68, iters: 0) loss: 0.957 
+(time: 16:45:27 03/16/21, epoch: 69, iters: 1) loss: 0.020 
+(time: 16:45:27 03/16/21, epoch: 69, iters: 11) loss: 0.016 
+(time: 16:45:28 03/16/21, epoch: 69, iters: 21) loss: 0.018 
+(time: 16:45:28 03/16/21, epoch: 69, iters: 31) loss: 0.035 
+test (time: 16:45:29 03/16/21, epoch: 69, iters: 0) loss: 0.484 
+(time: 16:45:29 03/16/21, epoch: 70, iters: 0) loss: 0.016 
+(time: 16:45:29 03/16/21, epoch: 70, iters: 10) loss: 0.009 
+(time: 16:45:30 03/16/21, epoch: 70, iters: 20) loss: 0.024 
+(time: 16:45:30 03/16/21, epoch: 70, iters: 30) loss: 0.042 
+(time: 16:45:31 03/16/21, epoch: 70, iters: 40) loss: 0.074 
+test (time: 16:45:31 03/16/21, epoch: 70, iters: 0) loss: 0.789 
+(time: 16:45:31 03/16/21, epoch: 71, iters: 9) loss: 0.031 
+(time: 16:45:32 03/16/21, epoch: 71, iters: 19) loss: 0.022 
+(time: 16:45:32 03/16/21, epoch: 71, iters: 29) loss: 0.029 
+(time: 16:45:33 03/16/21, epoch: 71, iters: 39) loss: 0.035 
+test (time: 16:45:33 03/16/21, epoch: 71, iters: 0) loss: 0.389 
+(time: 16:45:33 03/16/21, epoch: 72, iters: 8) loss: 0.050 
+(time: 16:45:34 03/16/21, epoch: 72, iters: 18) loss: 0.032 
+(time: 16:45:34 03/16/21, epoch: 72, iters: 28) loss: 0.148 
+(time: 16:45:35 03/16/21, epoch: 72, iters: 38) loss: 0.047 
+test (time: 16:45:35 03/16/21, epoch: 72, iters: 0) loss: 0.309 
+(time: 16:45:35 03/16/21, epoch: 73, iters: 7) loss: 0.020 
+(time: 16:45:36 03/16/21, epoch: 73, iters: 17) loss: 0.023 
+(time: 16:45:36 03/16/21, epoch: 73, iters: 27) loss: 0.038 
+(time: 16:45:37 03/16/21, epoch: 73, iters: 37) loss: 0.015 
+test (time: 16:45:37 03/16/21, epoch: 73, iters: 0) loss: 0.554 
+(time: 16:45:37 03/16/21, epoch: 74, iters: 6) loss: 0.030 
+(time: 16:45:38 03/16/21, epoch: 74, iters: 16) loss: 0.009 
+(time: 16:45:38 03/16/21, epoch: 74, iters: 26) loss: 0.028 
+(time: 16:45:39 03/16/21, epoch: 74, iters: 36) loss: 0.010 
+test (time: 16:45:39 03/16/21, epoch: 74, iters: 0) loss: 0.212 
+(time: 16:45:39 03/16/21, epoch: 75, iters: 5) loss: 0.013 
+(time: 16:45:40 03/16/21, epoch: 75, iters: 15) loss: 0.009 
+(time: 16:45:40 03/16/21, epoch: 75, iters: 25) loss: 0.011 
+(time: 16:45:41 03/16/21, epoch: 75, iters: 35) loss: 0.008 
+test (time: 16:45:41 03/16/21, epoch: 75, iters: 0) loss: 0.446 
+(time: 16:45:41 03/16/21, epoch: 76, iters: 4) loss: 0.012 
+(time: 16:45:42 03/16/21, epoch: 76, iters: 14) loss: 0.011 
+(time: 16:45:42 03/16/21, epoch: 76, iters: 24) loss: 0.009 
+(time: 16:45:43 03/16/21, epoch: 76, iters: 34) loss: 0.021 
+test (time: 16:45:43 03/16/21, epoch: 76, iters: 0) loss: 0.243 
+(time: 16:45:44 03/16/21, epoch: 77, iters: 3) loss: 0.013 
+(time: 16:45:44 03/16/21, epoch: 77, iters: 13) loss: 0.016 
+(time: 16:45:44 03/16/21, epoch: 77, iters: 23) loss: 0.009 
+(time: 16:45:45 03/16/21, epoch: 77, iters: 33) loss: 0.016 
+test (time: 16:45:45 03/16/21, epoch: 77, iters: 0) loss: 0.213 
+(time: 16:45:46 03/16/21, epoch: 78, iters: 2) loss: 0.008 
+(time: 16:45:46 03/16/21, epoch: 78, iters: 12) loss: 0.006 
+(time: 16:45:46 03/16/21, epoch: 78, iters: 22) loss: 0.010 
+(time: 16:45:47 03/16/21, epoch: 78, iters: 32) loss: 0.010 
+test (time: 16:45:47 03/16/21, epoch: 78, iters: 0) loss: 0.620 
+(time: 16:45:48 03/16/21, epoch: 79, iters: 1) loss: 0.008 
+(time: 16:45:48 03/16/21, epoch: 79, iters: 11) loss: 0.019 
+(time: 16:45:48 03/16/21, epoch: 79, iters: 21) loss: 0.011 
+(time: 16:45:49 03/16/21, epoch: 79, iters: 31) loss: 0.008 
+test (time: 16:45:49 03/16/21, epoch: 79, iters: 0) loss: 0.183 
+(time: 16:45:50 03/16/21, epoch: 80, iters: 0) loss: 0.005 
+(time: 16:45:50 03/16/21, epoch: 80, iters: 10) loss: 0.009 
+(time: 16:45:50 03/16/21, epoch: 80, iters: 20) loss: 0.006 
+(time: 16:45:51 03/16/21, epoch: 80, iters: 30) loss: 0.008 
+(time: 16:45:51 03/16/21, epoch: 80, iters: 40) loss: 0.007 
+test (time: 16:45:52 03/16/21, epoch: 80, iters: 0) loss: 0.170 
+(time: 16:45:52 03/16/21, epoch: 81, iters: 9) loss: 0.007 
+(time: 16:45:53 03/16/21, epoch: 81, iters: 19) loss: 0.007 
+(time: 16:45:53 03/16/21, epoch: 81, iters: 29) loss: 0.004 
+(time: 16:45:53 03/16/21, epoch: 81, iters: 39) loss: 0.006 
+test (time: 16:45:54 03/16/21, epoch: 81, iters: 0) loss: 0.175 
+(time: 16:45:54 03/16/21, epoch: 82, iters: 8) loss: 0.005 
+(time: 16:45:55 03/16/21, epoch: 82, iters: 18) loss: 0.005 
+(time: 16:45:55 03/16/21, epoch: 82, iters: 28) loss: 0.005 
+(time: 16:45:56 03/16/21, epoch: 82, iters: 38) loss: 0.014 
+test (time: 16:45:56 03/16/21, epoch: 82, iters: 0) loss: 0.180 
+(time: 16:45:56 03/16/21, epoch: 83, iters: 7) loss: 0.005 
+(time: 16:45:57 03/16/21, epoch: 83, iters: 17) loss: 0.004 
+(time: 16:45:57 03/16/21, epoch: 83, iters: 27) loss: 0.005 
+(time: 16:45:58 03/16/21, epoch: 83, iters: 37) loss: 0.005 
+test (time: 16:45:58 03/16/21, epoch: 83, iters: 0) loss: 0.160 
+(time: 16:45:58 03/16/21, epoch: 84, iters: 6) loss: 0.005 
+(time: 16:45:59 03/16/21, epoch: 84, iters: 16) loss: 0.007 
+(time: 16:45:59 03/16/21, epoch: 84, iters: 26) loss: 0.005 
+(time: 16:46:00 03/16/21, epoch: 84, iters: 36) loss: 0.007 
+test (time: 16:46:00 03/16/21, epoch: 84, iters: 0) loss: 0.173 
+(time: 16:46:01 03/16/21, epoch: 85, iters: 5) loss: 0.006 
+(time: 16:46:01 03/16/21, epoch: 85, iters: 15) loss: 0.007 
+(time: 16:46:02 03/16/21, epoch: 85, iters: 25) loss: 0.005 
+(time: 16:46:02 03/16/21, epoch: 85, iters: 35) loss: 0.004 
+test (time: 16:46:03 03/16/21, epoch: 85, iters: 0) loss: 0.163 
+(time: 16:46:03 03/16/21, epoch: 86, iters: 4) loss: 0.006 
+(time: 16:46:03 03/16/21, epoch: 86, iters: 14) loss: 0.006 
+(time: 16:46:04 03/16/21, epoch: 86, iters: 24) loss: 0.009 
+(time: 16:46:04 03/16/21, epoch: 86, iters: 34) loss: 0.007 
+test (time: 16:46:05 03/16/21, epoch: 86, iters: 0) loss: 0.184 
+(time: 16:46:05 03/16/21, epoch: 87, iters: 3) loss: 0.005 
+(time: 16:46:05 03/16/21, epoch: 87, iters: 13) loss: 0.018 
+(time: 16:46:06 03/16/21, epoch: 87, iters: 23) loss: 0.006 
+(time: 16:46:06 03/16/21, epoch: 87, iters: 33) loss: 0.006 
+test (time: 16:46:07 03/16/21, epoch: 87, iters: 0) loss: 0.202 
+(time: 16:46:07 03/16/21, epoch: 88, iters: 2) loss: 0.008 
+(time: 16:46:07 03/16/21, epoch: 88, iters: 12) loss: 0.004 
+(time: 16:46:08 03/16/21, epoch: 88, iters: 22) loss: 0.019 
+(time: 16:46:08 03/16/21, epoch: 88, iters: 32) loss: 0.004 
+test (time: 16:46:09 03/16/21, epoch: 88, iters: 0) loss: 0.202 
+(time: 16:46:09 03/16/21, epoch: 89, iters: 1) loss: 0.004 
+(time: 16:46:09 03/16/21, epoch: 89, iters: 11) loss: 0.005 
+(time: 16:46:10 03/16/21, epoch: 89, iters: 21) loss: 0.005 
+(time: 16:46:10 03/16/21, epoch: 89, iters: 31) loss: 0.004 
+test (time: 16:46:11 03/16/21, epoch: 89, iters: 0) loss: 0.274 
+(time: 16:46:11 03/16/21, epoch: 90, iters: 0) loss: 0.006 
+(time: 16:46:12 03/16/21, epoch: 90, iters: 10) loss: 0.005 
+(time: 16:46:12 03/16/21, epoch: 90, iters: 20) loss: 0.005 
+(time: 16:46:12 03/16/21, epoch: 90, iters: 30) loss: 0.004 
+(time: 16:46:13 03/16/21, epoch: 90, iters: 40) loss: 0.004 
+test (time: 16:46:13 03/16/21, epoch: 90, iters: 0) loss: 0.455 
+(time: 16:46:14 03/16/21, epoch: 91, iters: 9) loss: 0.005 
+(time: 16:46:14 03/16/21, epoch: 91, iters: 19) loss: 0.004 
+(time: 16:46:14 03/16/21, epoch: 91, iters: 29) loss: 0.006 
+(time: 16:46:15 03/16/21, epoch: 91, iters: 39) loss: 0.005 
+test (time: 16:46:15 03/16/21, epoch: 91, iters: 0) loss: 0.213 
+(time: 16:46:16 03/16/21, epoch: 92, iters: 8) loss: 0.006 
+(time: 16:46:16 03/16/21, epoch: 92, iters: 18) loss: 0.006 
+(time: 16:46:16 03/16/21, epoch: 92, iters: 28) loss: 0.004 
+(time: 16:46:17 03/16/21, epoch: 92, iters: 38) loss: 0.007 
+test (time: 16:46:17 03/16/21, epoch: 92, iters: 0) loss: 0.205 
+(time: 16:46:18 03/16/21, epoch: 93, iters: 7) loss: 0.003 
+(time: 16:46:18 03/16/21, epoch: 93, iters: 17) loss: 0.007 
+(time: 16:46:18 03/16/21, epoch: 93, iters: 27) loss: 0.005 
+(time: 16:46:19 03/16/21, epoch: 93, iters: 37) loss: 0.006 
+test (time: 16:46:19 03/16/21, epoch: 93, iters: 0) loss: 0.185 
+(time: 16:46:20 03/16/21, epoch: 94, iters: 6) loss: 0.004 
+(time: 16:46:20 03/16/21, epoch: 94, iters: 16) loss: 0.005 
+(time: 16:46:21 03/16/21, epoch: 94, iters: 26) loss: 0.004 
+(time: 16:46:21 03/16/21, epoch: 94, iters: 36) loss: 0.008 
+test (time: 16:46:21 03/16/21, epoch: 94, iters: 0) loss: 0.197 
+(time: 16:46:22 03/16/21, epoch: 95, iters: 5) loss: 0.009 
+(time: 16:46:22 03/16/21, epoch: 95, iters: 15) loss: 0.008 
+(time: 16:46:23 03/16/21, epoch: 95, iters: 25) loss: 0.004 
+(time: 16:46:23 03/16/21, epoch: 95, iters: 35) loss: 0.004 
+test (time: 16:46:23 03/16/21, epoch: 95, iters: 0) loss: 0.220 
+(time: 16:46:24 03/16/21, epoch: 96, iters: 4) loss: 0.005 
+(time: 16:46:24 03/16/21, epoch: 96, iters: 14) loss: 0.004 
+(time: 16:46:25 03/16/21, epoch: 96, iters: 24) loss: 0.004 
+(time: 16:46:25 03/16/21, epoch: 96, iters: 34) loss: 0.004 
+test (time: 16:46:26 03/16/21, epoch: 96, iters: 0) loss: 0.215 
+(time: 16:46:26 03/16/21, epoch: 97, iters: 3) loss: 0.003 
+(time: 16:46:26 03/16/21, epoch: 97, iters: 13) loss: 0.005 
+(time: 16:46:27 03/16/21, epoch: 97, iters: 23) loss: 0.004 
+(time: 16:46:27 03/16/21, epoch: 97, iters: 33) loss: 0.004 
+test (time: 16:46:28 03/16/21, epoch: 97, iters: 0) loss: 0.207 
+(time: 16:46:28 03/16/21, epoch: 98, iters: 2) loss: 0.003 
+(time: 16:46:28 03/16/21, epoch: 98, iters: 12) loss: 0.004 
+(time: 16:46:29 03/16/21, epoch: 98, iters: 22) loss: 0.006 
+(time: 16:46:29 03/16/21, epoch: 98, iters: 32) loss: 0.003 
+test (time: 16:46:30 03/16/21, epoch: 98, iters: 0) loss: 0.206 
+(time: 16:46:30 03/16/21, epoch: 99, iters: 1) loss: 0.004 
+(time: 16:46:30 03/16/21, epoch: 99, iters: 11) loss: 0.005 
+(time: 16:46:31 03/16/21, epoch: 99, iters: 21) loss: 0.004 
+(time: 16:46:31 03/16/21, epoch: 99, iters: 31) loss: 0.004 
+test (time: 16:46:32 03/16/21, epoch: 99, iters: 0) loss: 0.204 

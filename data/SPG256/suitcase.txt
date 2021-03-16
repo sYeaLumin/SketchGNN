@@ -1,0 +1,4 @@
+handle
+body
+ornament
+wheels
