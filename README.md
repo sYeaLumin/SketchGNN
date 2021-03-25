@@ -23,13 +23,7 @@ python evaluate.py --dataset SPG256 --class-name airplane --out-segment 4 --time
 python train.py --dataset SPG256 --class-name airplane --out-segment 4 --shuffle --stochastic
 ````
 
-
-
-## Citation
-
-
-
-# License
+## License
 
 MIT License
 
